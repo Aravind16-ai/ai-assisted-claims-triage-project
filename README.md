@@ -1,5 +1,5 @@
-***AI-Assisted Health Insurance Claims Triage & Fraud Detection***
-An end-to-end Python + SQL project that cleans and scores health insurance claims, runs automated fraud/risk rules (duplicates, overcharging, risk spikes, high-risk patients), and stores alerts in a relational model ready for dashboards.
+# AI-Assisted Health Insurance Claims Triage & Fraud Detection
+**An end-to-end Python + SQL project that cleans and scores health insurance claims, runs automated fraud/risk rules (duplicates, overcharging, risk spikes, high-risk patients), and stores alerts in a relational model ready for dashboards.**
 
 # What this project demonstrates
 - End-to-end data product thinking: from raw CSVs → Python cleaning & feature engineering → SQL schema → business rules → alerts → dashboards.
