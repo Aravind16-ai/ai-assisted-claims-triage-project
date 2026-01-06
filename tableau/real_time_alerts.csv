@@ -1,0 +1,4 @@
+alert_id,claim_id,original_claim,duplicate_claim,rule_name,rule_triggered,alert_status,alert_level,risk_score,alert_score,provider_id,claimant_id,detection_time,detection_timestamp,triggered_on,provider_fraud_history,procedure_code,amount,days_apart,needs_review
+3,,f68b1d08-e6b9-44f7-929a-52036a14b68d,duplicate-claim-id,Duplicate_Claim,Same procedure in 90 days,Flagged,High,85.0,85.0,test-provider-1234,738,2025-12-09 23:00:35,2025-12-09 23:00:35,2025-12-09 23:04:37,2,PROC123,500.0,10,1
+4,,f68b1d08-e6b9-44f7-929a-52036a14b68d,duplicate-claim-id,Duplicate_Claim,Same procedure in 90 days,Flagged,High,85.0,85.0,test-provider-1234,738,2025-12-09 23:00:35,2025-12-09 23:00:35,2025-12-09 23:04:49,2,PROC123,500.0,10,1
+5,,3f41218e-f333-41e6-99d6-47e0ee86114d,duplicate-claim-id,Duplicate_Claim,Same procedure in 90 days,Flagged,High,85.0,85.0,test-provider-1234,738,2025-12-10 10:33:33,2025-12-10 10:33:33,2025-12-10 10:33:33,2,PROC123,500.0,10,1
